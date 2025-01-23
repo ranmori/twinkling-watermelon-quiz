@@ -21,7 +21,7 @@ export default function Character(){
             <img src={f15e98fe35d8bbc902e82f8d2028c402} alt="" />
             <img src={ yichan2} alt=""  className="yichan"/>
             </div>
-          <q><Quotes/></q>
+          <Quotes/>
         </div>
         <div className="center">
           <p className="quo">Life didn’t have to be perfect for it to shine. 
