@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ranmori/twinkling-watermelon-quiz.git/static/css/main.c7a36885.css",
+    "main.js": "/ranmori/twinkling-watermelon-quiz.git/static/js/main.9e17af25.js",
+    "static/media/jpg": "/ranmori/twinkling-watermelon-quiz.git/static/media/f15e98fe35d8bbc902e82f8d2028c402.90438d0f80444c090a6b.jpg",
+    "static/media/xxxx.jpg": "/ranmori/twinkling-watermelon-quiz.git/static/media/xxxx.801bb0a16bc4de4b87d9.jpg",
+    "static/media/yichan2.jpg": "/ranmori/twinkling-watermelon-quiz.git/static/media/yichan2.7863aba2f200103137d3.jpg",
+    "static/media/cded.jpg": "/ranmori/twinkling-watermelon-quiz.git/static/media/cded.dfad8465247827db6da1.jpg",
+    "static/media/son.jpg": "/ranmori/twinkling-watermelon-quiz.git/static/media/son.9c4e886cc2d50aab430c.jpg",
+    "static/media/daughter.jpg": "/ranmori/twinkling-watermelon-quiz.git/static/media/daughter.fec9afd954559ac2d30c.jpg",
+    "static/media/watermelonsugar.jpg": "/ranmori/twinkling-watermelon-quiz.git/static/media/watermelonsugar.744ee4f12bac03470713.jpg",
+    "static/media/hismom.jpg": "/ranmori/twinkling-watermelon-quiz.git/static/media/hismom.39be3023e9b09f520871.jpg",
+    "index.html": "/ranmori/twinkling-watermelon-quiz.git/index.html",
+    "main.c7a36885.css.map": "/ranmori/twinkling-watermelon-quiz.git/static/css/main.c7a36885.css.map",
+    "main.9e17af25.js.map": "/ranmori/twinkling-watermelon-quiz.git/static/js/main.9e17af25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7a36885.css",
+    "static/js/main.9e17af25.js"
+  ]
+}
